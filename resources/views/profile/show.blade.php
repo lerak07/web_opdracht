@@ -34,6 +34,11 @@
             </div>
 
             <x-jet-section-border />
+            <div class="mt-10 sm:mt-0">
+                @livewire('userdata-get')
+            </div>
+
+            <x-jet-section-border />
 
             <div class="mt-10 sm:mt-0">
                 @livewire('profile.delete-user-form')
