@@ -18,6 +18,7 @@ https://karel-it.be/
 - Framework jetstream
 - Wachtwoord moet minstens 8 characters bevatten
 - Een gebruiker moet eerst zijn mailadres bevestigen vooraleer hij/zij kan inloggen
+- bij registreren word nagekeken of wachtwoord meer dan 300 keer voorkomt in database
 - Een gebruiker kan zijn/haar gegevens opvragen in het profile tab
 - Een gebruiker kan zijn/haar account verwijderen in het profile tab
 
